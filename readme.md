@@ -11,7 +11,10 @@
 
 [![Node CLI Course](https://img.shields.io/badge/COURSE-NodeCLI.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/COURSE-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v]
 
+<em><small>P.S. Check out my free [Deno Beginner][d] crash course.</small></em>
+
 [s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile
 [v]: https://VSCode.pro?utm_source=github&utm_medium=referral&utm_campaign=profile
+[d]: https://DenoBeginner.com?utm_source=github&utm_medium=referral&utm_campaign=profile
 [g]: https://github.com/AhmadAwais
