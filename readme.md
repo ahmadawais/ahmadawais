@@ -1,12 +1,3 @@
-[![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
-
-[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)][n]
-[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)][v]
-
-<br>
-
-[![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)][g]
-
 ## Connect
 
 <div align="left">
@@ -16,6 +7,10 @@
     <p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile y'all</small></p>
 </div>
 
+[![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
+
+[![Node CLI](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)][n]
+[![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=6A788D&style=flat)][v]
 
 [s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile
