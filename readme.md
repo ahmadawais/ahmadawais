@@ -8,7 +8,7 @@
 
 [![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
 
-###### ❯❯ Professional Development Courses ↓
+<small><strong>❯❯ Professional Development Courses ↓</strong></small>
 
 [![Node CLI Course](https://img.shields.io/badge/COURSE-NodeCLI.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/COURSE-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v]
 
