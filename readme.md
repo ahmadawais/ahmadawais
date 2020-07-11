@@ -7,10 +7,10 @@
 
 [![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
 
-<div align="left"><p><a href="https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile"><img alt="VSCode Course" align="center" src="https://img.shields.io/badge/📟-NodeCLI.com%20%E2%86%92-gray.svg?colorA=00C243&colorB=00C243&style=flat" /></a>&nbsp; <strong>Build Node.js CLI Automation DevTools</strong>
+<div align="left"><p><a href="https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile"><img alt="VSCode Course" align="center" src="https://img.shields.io/badge/📟-NodeCLI.com%20%E2%86%92-gray.svg?colorA=00C243&colorB=00C243&style=flat" /></a>&nbsp; <strong>Build Node.js CLI Automation DevTools</strong> <a href="https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile">↗</a>
 </p></div>
 
-<div align="left"><p><a href="https://VSCode.pro?utm_source=github&utm_medium=referral&utm_campaign=profile"><img alt="VSCode Course" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>VSCode Power User</strong>
+<div align="left"><p><a href="https://VSCode.pro?utm_source=github&utm_medium=referral&utm_campaign=profile"><img alt="VSCode Course" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>VSCode Power User</strong> <a href="https://VSCode.pro?utm_source=github&utm_medium=referral&utm_campaign=profile">↗</a>
 </p></div>
 
 [s]: https://github.com/AhmadAwais/sponsor
