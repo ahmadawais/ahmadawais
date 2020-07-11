@@ -9,7 +9,7 @@
 
 <small><strong>❯❯ Professional Development Courses ↓</strong></small>
 
-[![Node CLI Course](https://img.shields.io/badge/COURSE-Node%20CLI%20Automation%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/COURSE-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Deno Course](https://img.shields.io/badge/-Deno%20Beginner%20(free)%20%E2%86%92-gray.svg?colorA=000&colorB=000&labelColorB=000&style=for-the-badge)][d]
+[![Node CLI Course](https://img.shields.io/badge/LEARN-Node%20CLI%20Automation%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/LEARN-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Deno Course](https://img.shields.io/badge/LEARN-Deno%20(free)%20%E2%86%92-gray.svg?colorA=6B999F&colorB=6A788D&style=for-the-badge)][d]
 
 [s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github&utm_medium=referral&utm_campaign=profile
