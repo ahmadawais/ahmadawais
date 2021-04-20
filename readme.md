@@ -1,4 +1,4 @@
-<div align="left"><p><a href="https://nodecli.com/?utm_source=github.com/ahmadawais&utm_medium=referral&utm_campaign=profile"><img alt="NodeCLI.com" align="center" src="https://img.shields.io/badge/LEARN-Node%20CLI%20Automation%20-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge" /></a>&nbsp; <strong>IMP:</strong> I'm teaching developers how to automate their work and life with JavaScript.
+<div align="left"><p><a href="https://nodecli.com/?utm_source=github.com/ahmadawais&utm_medium=referral&utm_campaign=profile"><img alt="NodeCLI.com" align="center" src="https://img.shields.io/badge/LEARN-Node%20CLI%20Automation%20-gray.svg?colorA=161A22&colorB=6A788D&style=for-the-badge" /></a>&nbsp; <strong>IMP:</strong> I'm teaching developers how to automate their work and life with JavaScript.
 </p></div>
 
 <div align="left">
