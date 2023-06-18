@@ -12,7 +12,7 @@
 
 <small><strong>❯❯ Professional Development Courses ↓</strong></small>
 
-[![Node CLI Course](https://img.shields.io/badge/LEARN-Node%20CLI%20Automation%20%E2%86%92-gray.svg?colorA=215732&colorB=44883e&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/LEARN-VSCode%20Power%20User-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Node.js Course](https://img.shields.io/badge/LEARN-Node.js%20(free)-gray.svg?colorA=215732&colorB=333333&style=for-the-badge)][nj]
+[![Node CLI Course](https://img.shields.io/badge/LEARN-Node%20CLI%20Automation-gray.svg?colorA=215732&colorB=44883e&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/LEARN-VSCode%20Power%20User-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Node.js Course](https://img.shields.io/badge/LEARN-Node.js%20(free)-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)][nj]
 
 ![](https://hit.yhype.me/github/profile?user_id=960133)
 
