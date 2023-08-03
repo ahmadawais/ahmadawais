@@ -7,16 +7,16 @@
 <p>He has authored <a href="https://github.com/ahmadawais?tab=repositories&q=&type=source&language=&sort=stargazers">hundreds</a> of open-source software tools millions of developers use worldwide, like his <a href="https://ShadesOfPurple.pro/more">Shades of Purple</a> code theme​ or projects like the​ <a href="https://github.com/AhmadAwais/corona-cli">corona-cli</a>, <a href="https://github.com/AhmadAwais/create-node-cli">create-node-cli</a>, <a href="https://github.com/AhmadAwais/WPGulp">WPGulp</a>, and specs like <a href="https://github.com/AhmadAwais/Emoji-Log">Emoji-Log</a>.</p>
 
 
-Awais contributed code to <a href="https://ahmadawais.com/my-open-source-code-contribution-to-nasas-ingenuity-helicopter-goes-to-mars/">NASA’s Ingenuity Mars Helicopter mission</a>. <strong>“What an awesome example for developers,”</strong> said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission.
+Awais contributed code to <a href="https://ahmadawais.com/my-open-source-code-contribution-to-nasas-ingenuity-helicopter-goes-to-mars/">NASA’s Ingenuity Mars Helicopter mission</a>. <strong>“What an awesome example for developers,”</strong> said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission. <a href="https://Awais.dev/talks">Press Mentions
+& Media Coverage</a>.
 
-<p>​Awais ​loves to teach. Over <a href="https://ahmadawais.com/courses/">108K developers are learning from his courses</a>, i.e., <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>, &amp;​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. He has spoken at 100+ tech conferences, including TEDx, ReactLive, Node Summit, Google Dev Summit, and Next.js Conf. ​</p>
+<p>​Awais ​loves to teach. Over <a href="https://ahmadawais.com/courses/">108K developers are learning from his courses</a>, i.e., <a href="https://NodeCLI.com/?utm_medium=referral&amp;utm_campaign=speaking">NodeCLI.com</a>, <a href="https://VSCode.pro/?utm_medium=referral&amp;utm_campaign=speaking">VSCode.pro</a>, &amp;​ <a href="https://NextjsBeginner.com/?utm_medium=referral&amp;utm_campaign=speaking">NextjsBeginner.com</a>​​. Awais has delivered <a href="https://Awais.dev/talks">keynotes and talks</a> at 100+ tech conferences, including TEDx, ReactLive, Node Summit, Google Dev Summit, and Next.js Conf. ​</p>
     
 <p>Awais received the FOSS community leadership recognition as one of the first 12 featured <a href="https://ahmadawais.com/github-stars/">GitHub Stars</a> with a Gold <a href="https://www.linkedin.com/feed/update/urn:li:activity:6790272195416350720/">GitHub Stars Award</a>. ​He is a member of the SmashingMagazine Experts Panel; a featured &amp; published author at CSS-Tricks, Tuts+, Scotch.io, and SitePoint. You can mostly find ​him on Twitter <a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a>, where he tweets his <a href="https://Awais.dev/odmt">#OneDevMinute</a> developer tips.​</p>
 
 <br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
-<br>
 <br>
 <br>
 
