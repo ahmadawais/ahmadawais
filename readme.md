@@ -38,8 +38,6 @@ Awais contributed code to <a href="https://ahmadawais.com/my-open-source-code-co
 <br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
-<br>
-<br>
 
 ![](https://hit.yhype.me/github/profile?user_id=960133)
 
