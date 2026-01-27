@@ -36,7 +36,7 @@ Awais contributed code to <a href="https://ahmadawais.com/my-open-source-code-co
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 
-![](https://hit.yhype.me/github/profile?user_id=960133)
+![](https://hit.yhype.me/github/profile?account_id=960133)
 
 [s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github.com/ahmadawais&utm_medium=referral&utm_campaign=profile
