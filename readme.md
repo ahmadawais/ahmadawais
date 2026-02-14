@@ -133,7 +133,7 @@
 - **[NASA's Ingenuity Mars Helicopter][nasa-mars]** mission code contributor – featured by Satya Nadella
 - **6x Gold [GitHub Stars Award][github-stars]** recipient 8/180M devs – GitHub's [#1 JavaScript trending developer][js-trending]
 - 6x Google Developers Expert · 4x Microsoft MVP · Cloudflare Developer Expert · DigitalOcean Navigator
-- Google Developers Advisory Board (founding member) · OpenAPI Business Gov Board · Linux Foundation · OpenJS Node.js Foundation
+- Google Developers Advisory Board (founding member) · OpenAPI Business Gov Board · Linux Foundation (OpenJS CommComm)
 - WordPress Core Developer · Got Meta to open source React under the MIT License
 - Best Speaker Award (AI.Engineer Conf SF) · MongoDB Innovation Award (corona-cli)
 - San Francisco DevNetworks AI/ML Advisory Board
