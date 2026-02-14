@@ -2,15 +2,15 @@
 
 📍 **San Francisco** | 🤖 **Founder [CommandCode.ai][commandcode]** | 🚀 **[NASA Mars Helicopter][nasa-mars]** | <img src="https://github.com/ahmadawais/stuff/blob/master/github/star/lg.png?raw=true" height="19" align="top"> **GitHub Star**
 
-![TypeScript][badge-ts]
-![CLI][badge-cli]
-![JavaScript][badge-js]
-![Node.js][badge-node]
-![React.js][badge-react]
-![macOS][badge-macos]
-![Swift][badge-swift]
-![SwiftUI][badge-swiftui]
-![Web][badge-web]
+[![TypeScript][badge-ts]][x]
+[![CLI][badge-cli]][x]
+[![JavaScript][badge-js]][x]
+[![Node.js][badge-node]][x]
+[![React.js][badge-react]][x]
+[![macOS][badge-macos]][x]
+[![Swift][badge-swift]][x]
+[![SwiftUI][badge-swiftui]][x]
+[![Web][badge-web]][x]
 [![CommandCode][badge-cc]][commandcode]
 
 > Prompt. Sip. Ship. Building Command Code coding agent with continuously learning of your coding taste. Teaching devs along the way. 300+ FOSS projects, code on Mars, and purple over every other color.
@@ -159,7 +159,7 @@
 - Runs on SF coffee and an inability to say no to interesting problems
 - Blogging for 26 years, 274M+ page views and counting
 
-*—— and finally,thank you Sataya!!*
+*—— and finally, thank you Sataya!!*
 
 ![recognition][recognition]
 
