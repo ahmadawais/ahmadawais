@@ -137,8 +137,7 @@
 - WordPress Core Developer · Got Meta to open source React under the MIT License
 - Best Speaker Award (AI.Engineer Conf SF) · MongoDB Innovation Award (corona-cli)
 - San Francisco DevNetworks AI/ML Advisory Board · Stanford University Guest Lecturer
-- Ex-VP DevRel at RapidAPI ($1B valuation) · Built the biggest, most engaged API Developers community of 91 Million developers from scratch.
-
+- Ex-VP DevRel at RapidAPI ($1B unicorn, acq Nokia) · Built the "Biggest Most Engaged API Developers" community with over 91 million developers.
 
 ### Media & Speaking
 
