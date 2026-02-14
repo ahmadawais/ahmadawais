@@ -14,25 +14,25 @@
 [![CommandCode][badge-cc]][commandcode]
 <!-- [![macOS][badge-macos]][x] -->
 
-> Prompt. Sip. Ship. Building Command Code, a coding agent with continuously learning of your coding taste. Teaching devs along the way. 300+ FOSS projects, code on Mars, and purple over every other color.
+> Prompt. Sip. Ship. Building Command Code, a coding agent with continuously learning your coding taste. Teaching devs along the way. 300+ FOSS projects, code on Mars, and purple over every other color.
 
 ####  ⌘ **[CommandCode.ai][commandcode]** – AI coding agent that continuously learns your coding taste.
 
 ## Projects
 
-> Built hundreds of open source projects used by millions of developers, 50-100 million downloads/yr.
+> Built 300+ open source projects used by millions of developers, generating 50–100 million downloads per year.
 
 - 🦄 **[Shades of Purple][shades-of-purple]** – Code theme. Purple is genius – 5M+ devs (VSCode top-10, Ghosty, Chrome, 30+)
 - 🦠 **[corona cli][corona-cli]** – Like Perplexity but for COVID; served 10B+ queries when the world needed it
 - 🌳 **[gwtree cli][gwtree]** – Git worktrees made effortless; perfect for running parallel coding agents
 - 🛠️ **[create-node-cli][create-node-cli]** – Create Node.js CLI apps in seconds
-- 📝 **[Emoji-Log][emoji-log]** – Emoji spec. Because git log should spark joy
+- 📝 **[Emoji-Log][emoji-log]** – Emoji commit spec. Because git log should spark joy
 - 🖌️ **[termdot][termdot]** – Draw in the terminal with Unicode braille characters; 8 dots per cell
 - 🗣️ **[awaz cli][awaz]** – Text-to-speech CLI with ElevenLabs voices
 - 📡 **[excalidraw-cli][excalidraw-cli]** – Excalidraw from the command line
 - 📸 **[qasai cli][qasai]** – Image compression CLI with multiple engines, lossless/lossy, interactive mode
-- 🤘 **[Command f/k/a Chai][command-new]** – Prompt. Sip. Ship. Your on-demand AI engineer
-- 🧠 **[Langbase][langbase]** – Composable AI Cloud in one line of code ([langbase.com][langbase-web])
+- 🤘 **[Command (formerly Chai)][command-new]** – Prompt. Sip. Ship. Your on-demand AI engineer
+- 🧠 **[Langbase][langbase]** – Composable AI cloud, accessible in one line of code ([langbase.com][langbase-web])
 - 🤖 **[BaseAI cli][baseai]** – CLI-first AI framework; serverless AI agents ([BaseAI.dev][baseai-web])
 - 🎨 **[LangUI][langui]** – Open source Tailwind UI components for AI/LLM projects
 - 🧮 **[datemath cli][datemath]** – Date math in natural language, right in your terminal
@@ -128,7 +128,7 @@
 [![Bluesky][badge-bsky]][bluesky]
 [![Blog][badge-blog]][aa-blog]
 
-### Recognition
+### Notable
 
 - **[NASA's Ingenuity Mars Helicopter][nasa-mars]** mission code contributor – featured by Satya Nadella
 - **6x Gold [GitHub Stars Award][github-stars]** recipient 8/180M devs – GitHub's [#1 JavaScript trending developer][js-trending]
@@ -136,7 +136,8 @@
 - Google Developers Advisory Board (founding member) · OpenAPI Business Gov Board · Linux Foundation (OpenJS)
 - WordPress Core Developer · Got Meta to open source React under the MIT License
 - Best Speaker Award (AI.Engineer Conf SF) · MongoDB Innovation Award (corona-cli)
-- San Francisco DevNetworks AI/ML Advisory Board
+- San Francisco DevNetworks AI/ML Advisory Board · Stanford University Guest Lecturer
+- Ex-VP DevRel at RapidAPI ($1B valuation) · Built the biggest, most engaged API Developers community of 91 Million developers from scratch.
 
 
 ### Media & Speaking
@@ -146,17 +147,17 @@
 
 ### Philosophy
 
-> Use your code for good and "Read the source code". There's so much to learn from the source code of great projects. It's like reading the brain of a genius. You see their thought process, their problem-solving approach, their coding style. It's a gift of knowledge that you won't find in tutorials or documentation. So dive into the source code of your favorite projects and learn from the best.
+> Use your code for good. **Read the source code**. There's so much to learn from the source code of great projects. It's like reading the brain of a genius. You see their thought process, their problem-solving approach, their coding style. It’s a kind of knowledge you won’t find in tutorials or documentation. So dive into the source code of your favorite projects and learn from the best.
 
 <details>
 <summary>Random Facts</summary>
 
 - I have been developing and designing web pages since the early days of tables and spacers. And no – I’ve never used the scrolling marquee with Comic Sans fonts. 😅
-- Raised from [best investors in the world][investors] like GitHub's founder, Apple's CFO, and 30+ tech leaders
+- Backed by some of the [world’s best investors][investors] including GitHub's founder, Apple's CFO, and 30+ tech leaders
 - Former VP DevTools & DevRel Eng at RapidAPI – built DevRel from $0 to $272M funding to $1B valuation
 - Teaching is a genetic bug – both grandparents and parents are teachers
 - Shades of Purple theme has its own fan base (your brain literally invents purple when you see it)
-- Married to his best friend, Maedah Batool
+- Married to my best friend, [Maedah Batool][mbli]
 - Runs on SF coffee and an inability to say no to interesting problems
 - Blogging for 26 years, 274M+ page views and counting
 
@@ -308,3 +309,4 @@
 [woo-change]: https://github.com/ahmadawais/Woo-Keep-The-Change
 [recognition]: https://github.com/ahmadawais/ahmadawais/blob/master/.github/recognition.png?raw=true
 [investors]: https://commandcode.ai/about#investors
+[mbli]: https://www.linkedin.com/in/maedahbatool/
