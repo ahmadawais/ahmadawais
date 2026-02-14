@@ -1,6 +1,6 @@
 # 👋 I'm Ahmad
 
-📍 **San Francisco** | 🤖 **Founder [CommandCode.ai][commandcode]** | 🚀 **[NASA Mars Helicopter][nasa-mars]** | <img src="https://github.com/ahmadawais/stuff/blob/master/github/star/lg.png?raw=true" height="19" align="top"> **GitHub Star**
+🌉 **San Francisco** | <img src="https://raw.githubusercontent.com/ahmadawais/stuff/edd09646245b4d375c52a6b66ca7464205f0b65b/commandcode/design/logo/symbol/symbol.svg" height="19" align="top"> **CEO & Founder [CommandCode.ai][commandcode]** | <img src="https://raw.githubusercontent.com/ahmadawais/stuff/edd09646245b4d375c52a6b66ca7464205f0b65b/github/logos/nasa.svg" height="19" align="top">  **[NASA Mars Helicopter][nasa-mars]** | <img src="https://raw.githubusercontent.com/ahmadawais/stuff/refs/heads/master/github/star/lg.png" height="19" align="top"> **GitHub Star**
 
 [![CLI][badge-cli]][x]
 [![TypeScript][badge-ts]][x]
