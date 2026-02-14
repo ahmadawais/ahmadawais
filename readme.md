@@ -2,17 +2,17 @@
 
 📍 **San Francisco** | 🤖 **Founder [CommandCode.ai][commandcode]** | 🚀 **[NASA Mars Helicopter][nasa-mars]** | <img src="https://github.com/ahmadawais/stuff/blob/master/github/star/lg.png?raw=true" height="19" align="top"> **GitHub Star**
 
-[![TypeScript][badge-ts]][x]
 [![CLI][badge-cli]][x]
+[![TypeScript][badge-ts]][x]
 [![JavaScript][badge-js]][x]
 [![Node.js][badge-node]][x]
-[![React.js][badge-react]][x]
-[![macOS][badge-macos]][x]
+[![React][badge-react]][x]
 [![Swift][badge-swift]][x]
 [![SwiftUI][badge-swiftui]][x]
 [![Web][badge-web]][x]
 [![WebAssembly][badge-webassembly]][x]
 [![CommandCode][badge-cc]][commandcode]
+<!-- [![macOS][badge-macos]][x] -->
 
 > Prompt. Sip. Ship. Building Command Code coding agent with continuously learning of your coding taste. Teaching devs along the way. 300+ FOSS projects, code on Mars, and purple over every other color.
 
@@ -167,11 +167,11 @@
 </details>
 
 <!-- Badges -->
+[badge-cli]: https://img.shields.io/badge/-CLI-4D21FC?style=flat-square&logo=gnu-bash&logoColor=white
 [badge-ts]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-[badge-cli]: https://img.shields.io/badge/-CLIs-4D21FC?style=flat-square&logo=gnu-bash&logoColor=white
 [badge-js]: https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 [badge-node]: https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-[badge-react]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat-square
+[badge-react]: https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square
 [badge-swift]: https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white
 [badge-swiftui]: https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white
 [badge-macos]: https://img.shields.io/badge/-macOS-dedede?style=flat-square&logo=apple&logoColor=black&textColor=000000
