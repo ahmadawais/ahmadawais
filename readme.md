@@ -152,7 +152,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- Started coding when the web was just tables & spacer GIFs (never used Comic Sans in a marquee tag though, I have standards)
+- I have been developing and designing web pages since the early days of tables and spacers. And no – I’ve never used the scrolling marquee with Comic Sans fonts. 😅
 - Raised from [best investors in the world][investors] like GitHub's founder, Apple's CFO, and 30+ tech leaders
 - Former VP DevTools & DevRel Eng at RapidAPI – built DevRel from $0 to $272M funding to $1B valuation
 - Teaching is a genetic bug – both grandparents and parents are teachers
