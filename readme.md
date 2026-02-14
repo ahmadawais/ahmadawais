@@ -103,7 +103,7 @@
 
 - **Building Command Code** – AI coding agent that learns your coding taste; less slop, more ship
 - **Angel investing** – Small bets on founders who ship fast (Replit, Resend, Daytona, Gumroad, and [you][contact]?)
-- **Speaking everywhere** – 150+ talks including OpenAI DevDay, Google I/O, GitHub Universe, Stanford, AI.Engineer (Best Speaker), TEDx
+- **Speaking everywhere** – 150+ talks including OpenAI DevDay, Google I/O, GitHub Universe, Stanford, AI.Engineer, TEDx
 - [**Teaching 108K+ devs**][courses] – [NodeCLI.com][nodecli], [VSCode.pro][vscodepro], [NodejsBeginner.com][nodejs-beginner]
 - **Writing for 201K+ subscribers** – [The Developer Takeaway][newsletter] newsletter
 
