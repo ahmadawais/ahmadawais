@@ -302,5 +302,5 @@
 [titlecaseit]: https://github.com/ahmadawais/TitleCaseIt
 [resass]: https://github.com/ahmadawais/ReSass
 [woo-change]: https://github.com/ahmadawais/Woo-Keep-The-Change
-[recognition]: https://raw.githubusercontent.com/ahmadawais/ahmadawais/main/.github/recognition.png
+[recognition]: https://github.com/ahmadawais/ahmadawais/blob/master/.github/recognition.png?raw=true
 [investors]: https://commandcode.ai/about#investors
