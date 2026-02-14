@@ -14,7 +14,7 @@
 [![CommandCode][badge-cc]][commandcode]
 <!-- [![macOS][badge-macos]][x] -->
 
-> Prompt. Sip. Ship. Building Command Code coding agent with continuously learning of your coding taste. Teaching devs along the way. 300+ FOSS projects, code on Mars, and purple over every other color.
+> Prompt. Sip. Ship. Building Command Code, a coding agent with continuously learning of your coding taste. Teaching devs along the way. 300+ FOSS projects, code on Mars, and purple over every other color.
 
 ####  ⌘ **[CommandCode.ai][commandcode]** – AI coding agent that continuously learns your coding taste.
 
