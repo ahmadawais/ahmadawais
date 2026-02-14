@@ -160,7 +160,7 @@
 - Runs on SF coffee and an inability to say no to interesting problems
 - Blogging for 26 years, 274M+ page views and counting
 
-*—— and finally, thank you Sataya!!*
+*—— and finally, thank you Satya!!*
 
 ![recognition][recognition]
 
