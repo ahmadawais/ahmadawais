@@ -104,7 +104,7 @@
 - **Building Command Code** – AI coding agent that learns your coding taste; less slop, more ship
 - **Angel investing** – Small bets on founders who ship fast (Replit, Resend, Daytona, Gumroad, and [you][contact]?)
 - **Speaking everywhere** – 150+ talks including OpenAI DevDay, Google I/O, GitHub Universe, Stanford, AI.Engineer (Best Speaker), TEDx
-- **Teaching 108K+ devs** – [NodeCLI.com][nodecli], [VSCode.pro][vscodepro], [NextjsBeginner.com][nextjs-beginner]
+- [**Teaching 108K+ devs**][courses] – [NodeCLI.com][nodecli], [VSCode.pro][vscodepro], [NodejsBeginner.com][nodejs-beginner]
 - **Writing for 201K+ subscribers** – [The Developer Takeaway][newsletter] newsletter
 
 ## Blogs
@@ -203,7 +203,7 @@
 [contact]: https://AhmadAwais.com/contact
 [nodecli]: https://NodeCLI.com
 [vscodepro]: https://VSCode.pro
-[nextjs-beginner]: https://NextjsBeginner.com
+[nodejs-beginner]: https://NodejsBeginner.com
 [newsletter]: https://ahmadawais.com/newsletter/
 [aa-home]: https://ahmadawais.com
 [github-stars]: https://ahmadawais.com/github-stars/
