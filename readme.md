@@ -127,8 +127,6 @@
 [![Bluesky][badge-bsky]][bluesky]
 [![Blog][badge-blog]][aa-blog]
 
-![recognition][recognition]
-
 ### Recognition
 
 - **[NASA's Ingenuity Mars Helicopter][nasa-mars]** mission code contributor – featured by Satya Nadella
@@ -160,6 +158,10 @@
 - Married to his best friend, Maedah Batool
 - Runs on SF coffee and an inability to say no to interesting problems
 - Blogging for 26 years, 274M+ page views and counting
+
+*—— and finally,thank you Sataya!!*
+
+![recognition][recognition]
 
 </details>
 
