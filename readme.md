@@ -127,6 +127,7 @@
 [![Bluesky][badge-bsky]][bluesky]
 [![Blog][badge-blog]][aa-blog]
 
+![recognition][recognition]
 
 ### Recognition
 
@@ -138,7 +139,6 @@
 - Best Speaker Award (AI.Engineer Conf SF) · MongoDB Innovation Award (corona-cli)
 - San Francisco DevNetworks AI/ML Advisory Board
 
-![recognition][recognition]
 
 ### Media & Speaking
 
@@ -152,7 +152,7 @@
 <details>
 <summary>Random Facts</summary>
 
-- Started coding when the web was just tables and spacer GIFs (never used Comic Sans in a marquee tag though, I have standards)
+- Started coding when the web was just tables & spacer GIFs (never used Comic Sans in a marquee tag though, I have standards)
 - Raised from [best investors in the world][investors] like GitHub's founder, Apple's CFO, and 30+ tech leaders
 - Former VP DevTools & DevRel Eng at RapidAPI – built DevRel from $0 to $272M funding to $1B valuation
 - Teaching is a genetic bug – both grandparents and parents are teachers
