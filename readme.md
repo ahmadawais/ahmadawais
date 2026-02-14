@@ -85,7 +85,7 @@
 - 🌐 **[WPGitHubAPI][wpgithubapi]** – WordPress shortcodes for the GitHub API v3
 - 🔖 **[create-wp-release cli][create-wp-release]** – Release a WordPress plugin automatically
 - 📝 **[Emoji-Log-VSCode][emoji-log-vscode]** – VS Code extension for Emoji-Log commits
-- 📁 **[dotfiles][dotfiles]** – My dotfiles, because why not?
+- 📁 **[dotfiles][dotfiles]** – My dotfiles, and a fancy Mac Setup CLI.
 
 ## Legacy
 
