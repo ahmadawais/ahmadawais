@@ -156,7 +156,7 @@
 - Former VP DevTools & DevRel Eng at RapidAPI – built DevRel from $0 to $272M funding to $1B valuation
 - Teaching is a genetic bug – both grandparents and parents are teachers
 - Shades of Purple theme has its own fan base (your brain literally invents purple when you see it)
-- Married to my best friend, [Maedah Batool][mbli]
+- Married to my best friend, [Maedah Batool][mbli] (Ex Vercel, Sourcegraph, and Google)
 - Runs on SF coffee and an inability to say no to interesting problems
 - Blogging for 26 years, 274M+ page views and counting
 
