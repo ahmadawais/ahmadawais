@@ -138,7 +138,8 @@
 - Best Speaker Award (AI.Engineer Conf SF) · MongoDB Innovation Award (corona-cli)
 - San Francisco DevNetworks AI/ML Advisory Board · Stanford University Guest Lecturer
 - Ex-VP DevRel at RapidAPI ($1B unicorn, acq Nokia) · Built a community of 91 million API developers
-- Core contributor MCP spec, Gemini CLI, VS Code, Node.js, Next.js, WordPress, Bootstrap, Oh My Zsh, W3C, and 240+ major open source projects
+- Core contributor to MCP spec, Gemini CLI, VS Code, Node.js, Next.js, WordPress, Bootstrap, Oh My Zsh, W3C, and
+- 240+ major open source projects
 
 ### Media & Speaking
 
