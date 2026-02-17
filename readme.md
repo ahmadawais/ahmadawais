@@ -138,6 +138,7 @@
 - Best Speaker Award (AI.Engineer Conf SF) · MongoDB Innovation Award (corona-cli)
 - San Francisco DevNetworks AI/ML Advisory Board · Stanford University Guest Lecturer
 - Ex-VP DevRel at RapidAPI ($1B unicorn, acq Nokia) · Built a community of 91 million API developers
+- Core contributor MCP spec, Gemini CLI, VS Code, Node.js, Next.js, WordPress, Bootstrap, Oh My Zsh, W3C, and 240+ major open source projects
 
 ### Media & Speaking
 
@@ -152,6 +153,7 @@
 <summary>Random Facts</summary>
 
 - I have been developing and designing web pages since the early days of tables and spacers. And no – I’ve never used the scrolling marquee with Comic Sans fonts. 😅
+- 240+ merged PRs to major open source software projects. Core contributor of Model Context Protocol · VS Code · Node.js · Next.js · React.js · WordPress Core · Gemini CLI · Gutenberg · Cloudflare MCP · Oh My Zsh · Bootstrap · WooCommerce · React.js · Bootstrap · Google Chrome web.dev · W3C · WP REST API · WP-CLI · Highlight.js · Prism · Carbon · Azure Functions · Serverless · CSS Modules, and many more
 - Backed by some of the [world’s best investors][investors] including GitHub's founder, Apple's CFO, and 30+ tech leaders
 - Former VP DevTools & DevRel Eng at RapidAPI – built DevRel from $0 to $272M funding to $1B valuation
 - Teaching is a genetic bug – both grandparents and parents are teachers
