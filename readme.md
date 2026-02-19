@@ -28,6 +28,7 @@
 - 🛠️ **[create-node-cli][create-node-cli]** – Create Node.js CLI apps in seconds
 - 📝 **[Emoji-Log][emoji-log]** – Emoji commit spec. Because git log should spark joy
 - 🖌️ **[termdot][termdot]** – Draw in the terminal with Unicode braille characters; 8 dots per cell
+- 🗣️ **[typefully cli][typefully]** – CLI & skill for scheduling & managing posts across X, LinkedIn, etc
 - 🗣️ **[awaz cli][awaz]** – Text-to-speech CLI with ElevenLabs voices
 - 📡 **[excalidraw-cli][excalidraw-cli]** – Excalidraw from the command line
 - 📸 **[qasai cli][qasai]** – Image compression CLI with multiple engines, lossless/lossy, interactive mode
@@ -238,6 +239,7 @@
 [create-node-cli]: https://github.com/ahmadawais/create-node-cli
 [emoji-log]: https://github.com/ahmadawais/Emoji-Log
 [termdot]: https://github.com/ahmadawais/termdot
+[typefully]: https://github.com/ahmadawais/typefully-cli
 [awaz]: https://github.com/ahmadawais/awaz
 [excalidraw-cli]: https://github.com/ahmadawais/excalidraw-cli
 [qasai]: https://github.com/ahmadawais/qasai
