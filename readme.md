@@ -25,6 +25,7 @@
 - 🦄 **[Shades of Purple][shades-of-purple]** – Code theme. Purple is genius – 5M+ devs (VSCode top-10, Ghosty, Chrome, 30+)
 - 🦠 **[corona cli][corona-cli]** – Like Perplexity but for COVID; served 10B+ queries when the world needed it
 - 🌳 **[gwtree cli][gwtree]** – Git worktrees made effortless; perfect for running parallel coding agents
+- 📟 **[terminui][terminui]** – Super fast double buffered toolkit for building terminal UIs
 - 🛠️ **[create-node-cli][create-node-cli]** – Create Node.js CLI apps in seconds
 - 📝 **[Emoji-Log][emoji-log]** – Emoji commit spec. Because git log should spark joy
 - 🖌️ **[termdot][termdot]** – Draw in the terminal with Unicode braille characters; 8 dots per cell
@@ -236,6 +237,7 @@
 [shades-of-purple]: https://github.com/ahmadawais/shades-of-purple-vscode
 [corona-cli]: https://github.com/ahmadawais/corona-cli
 [gwtree]: https://github.com/ahmadawais/gwtree
+[terminui]: https://github.com/ahmadawais/terminui
 [create-node-cli]: https://github.com/ahmadawais/create-node-cli
 [emoji-log]: https://github.com/ahmadawais/Emoji-Log
 [termdot]: https://github.com/ahmadawais/termdot
