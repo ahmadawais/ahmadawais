@@ -37,6 +37,7 @@
 - 🧠 **[Langbase][langbase]** – Composable AI cloud, accessible in one line of code ([langbase.com][langbase-web])
 - 🤖 **[BaseAI cli][baseai]** – CLI-first AI framework; serverless AI agents ([BaseAI.dev][baseai-web])
 - 🎨 **[LangUI][langui]** – Open source Tailwind UI components for AI/LLM projects
+- 📊 **[chartli cli][chartli]** – Render data to charts in your terminal in eight different types
 - 🧮 **[datemath cli][datemath]** – Date math in natural language, right in your terminal
 - 📖 **[cli-meow-help][cli-meow-help]** – Auto-generate help TUI for meow CLIs
 - 🚨 **[cli-alerts][cli-alerts]** – Cross-platform CLI alerts TUI that actually look good
@@ -251,6 +252,7 @@
 [baseai]: https://github.com/CommandCodeAI/BaseAI
 [baseai-web]: https://baseai.dev
 [langui]: https://github.com/CommandCodeAI/langui
+[chartli]: https://github.com/ahmadawais/chartli
 [datemath]: https://github.com/ahmadawais/datemath-cli
 [cli-meow-help]: https://github.com/ahmadawais/cli-meow-help
 [cli-alerts]: https://github.com/ahmadawais/cli-alerts
