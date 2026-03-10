@@ -239,6 +239,7 @@
 [shades-of-purple]: https://github.com/ahmadawais/shades-of-purple-vscode
 [corona-cli]: https://github.com/ahmadawais/corona-cli
 [gwtree]: https://github.com/ahmadawais/gwtree
+[mmmodels]: https://github.com/ahmadawais/mmmodels
 [terminui]: https://github.com/ahmadawais/terminui
 [create-node-cli]: https://github.com/ahmadawais/create-node-cli
 [emoji-log]: https://github.com/ahmadawais/Emoji-Log
