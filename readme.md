@@ -27,6 +27,7 @@
 - 🌳 **[gwtree cli][gwtree]** – Git worktrees made effortless; perfect for running parallel coding agents
 - 📟 **[mmmodels cli][mmmodels]** – CLI for exploring AI models & pricing info from hundreds of providers
 - 📟 **[terminui][terminui]** – Super fast double buffered toolkit for building terminal UIs
+- 🍅 **[clidoro][clidoro]** – CLI pomodoro timer for humans (TUI) and AI agents (skills)
 - 🛠️ **[create-node-cli][create-node-cli]** – Create Node.js CLI apps in seconds
 - 📝 **[Emoji-Log][emoji-log]** – Emoji commit spec. Because git log should spark joy
 - 🖌️ **[termdot][termdot]** – Draw in the terminal with Unicode braille characters; 8 dots per cell
@@ -241,6 +242,7 @@
 [gwtree]: https://github.com/ahmadawais/gwtree
 [mmmodels]: https://github.com/ahmadawais/mmmodels
 [terminui]: https://github.com/ahmadawais/terminui
+[clidoro]: https://github.com/ahmadawais/clidoro
 [create-node-cli]: https://github.com/ahmadawais/create-node-cli
 [emoji-log]: https://github.com/ahmadawais/Emoji-Log
 [termdot]: https://github.com/ahmadawais/termdot
