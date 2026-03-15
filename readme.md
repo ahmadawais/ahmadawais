@@ -25,6 +25,7 @@
 - 🦄 **[Shades of Purple][shades-of-purple]** – Code theme. Purple is genius – 5M+ devs (VSCode top-10, Ghosty, Chrome, 30+)
 - 🦠 **[corona cli][corona-cli]** – Like Perplexity but for COVID; served 10B+ queries when the world needed it
 - 🌳 **[gwtree cli][gwtree]** – Git worktrees made effortless; perfect for running parallel coding agents
+- 📊 **[chartli cli][chartli]** – Render data to charts in your terminal in eight different types
 - 📟 **[mmmodels cli][mmmodels]** – CLI for exploring AI models & pricing info from hundreds of providers
 - 📟 **[terminui][terminui]** – Super fast double buffered toolkit for building terminal UIs
 - 🍅 **[clidoro][clidoro]** – CLI pomodoro timer for humans (TUI) and AI agents (skills)
@@ -39,7 +40,6 @@
 - 🧠 **[Langbase][langbase]** – Composable AI cloud, accessible in one line of code ([langbase.com][langbase-web])
 - 🤖 **[BaseAI cli][baseai]** – CLI-first AI framework; serverless AI agents ([BaseAI.dev][baseai-web])
 - 🎨 **[LangUI][langui]** – Open source Tailwind UI components for AI/LLM projects
-- 📊 **[chartli cli][chartli]** – Render data to charts in your terminal in eight different types
 - 🧮 **[datemath cli][datemath]** – Date math in natural language, right in your terminal
 - 📖 **[cli-meow-help][cli-meow-help]** – Auto-generate help TUI for meow CLIs
 - 🚨 **[cli-alerts][cli-alerts]** – Cross-platform CLI alerts TUI that actually look good
