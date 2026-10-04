@@ -36,6 +36,7 @@
 - 🗣️ **[awaz cli][awaz]** – Text-to-speech CLI with ElevenLabs voices
 - 📡 **[excalidraw-cli][excalidraw-cli]** – Excalidraw from the command line
 - 📸 **[qasai cli][qasai]** – Image compression CLI with multiple engines, lossless/lossy, interactive mode
+- 📸 **[innnvoice][innnvoice]** – Beautiful PDF invoices from one JSON file. Zero dependencies.
 - 🤘 **[Command (formerly Chai)][command-new]** – Prompt. Sip. Ship. Your on-demand AI engineer
 - 🧠 **[Langbase][langbase]** – Composable AI cloud, accessible in one line of code ([langbase.com][langbase-web])
 - 🤖 **[BaseAI cli][baseai]** – CLI-first AI framework; serverless AI agents ([BaseAI.dev][baseai-web])
@@ -250,6 +251,7 @@
 [awaz]: https://github.com/ahmadawais/awaz
 [excalidraw-cli]: https://github.com/ahmadawais/excalidraw-cli
 [qasai]: https://github.com/ahmadawais/qasai
+[innnvoice]: https://github.com/ahmadawais/innnvoice
 [command-new]: https://command.new
 [langbase]: https://github.com/CommandCodeAI/langbase-sdk
 [langbase-web]: https://langbase.com
