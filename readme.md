@@ -27,6 +27,7 @@
 - 🌳 **[gwtree cli][gwtree]** – Git worktrees made effortless; perfect for running parallel coding agents
 - 📊 **[chartli cli][chartli]** – Render data to charts in your terminal in eight different types
 - 📟 **[mmmodels cli][mmmodels]** – CLI for exploring AI models & pricing info from hundreds of providers
+- ✂️ **[Cut][cut]** – Cut ⌘X and Paste ⌘V files in Mac. Finally.
 - 📟 **[terminui][terminui]** – Super fast double buffered toolkit for building terminal UIs
 - 🍅 **[clidoro][clidoro]** – CLI pomodoro timer for humans (TUI) and AI agents (skills)
 - 🛠️ **[create-node-cli][create-node-cli]** – Create Node.js CLI apps in seconds
@@ -241,6 +242,7 @@
 [shades-of-purple]: https://github.com/ahmadawais/shades-of-purple-vscode
 [corona-cli]: https://github.com/ahmadawais/corona-cli
 [gwtree]: https://github.com/ahmadawais/gwtree
+[cut]: https://github.com/ahmadawais/cut
 [mmmodels]: https://github.com/ahmadawais/mmmodels
 [terminui]: https://github.com/ahmadawais/terminui
 [clidoro]: https://github.com/ahmadawais/clidoro
