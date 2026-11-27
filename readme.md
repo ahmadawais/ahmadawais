@@ -92,7 +92,7 @@
 - 🌐 **[WPGitHubAPI][wpgithubapi]** – WordPress shortcodes for the GitHub API v3
 - 🔖 **[create-wp-release cli][create-wp-release]** – Release a WordPress plugin automatically
 - 📝 **[Emoji-Log-VSCode][emoji-log-vscode]** – VS Code extension for Emoji-Log commits
-- 🏆 **[humblebrag cli][humblebrag]** – All-time npm downloads, GitHub stars, merged PRs, and followers everywhere in one command
+- 🏆 **[humblebrag cli][humblebrag]** – All-time npm downloads, GitHub stars & followers in one go
 
 ## Legacy
 
