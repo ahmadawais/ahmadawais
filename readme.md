@@ -92,7 +92,7 @@
 - 🌐 **[WPGitHubAPI][wpgithubapi]** – WordPress shortcodes for the GitHub API v3
 - 🔖 **[create-wp-release cli][create-wp-release]** – Release a WordPress plugin automatically
 - 📝 **[Emoji-Log-VSCode][emoji-log-vscode]** – VS Code extension for Emoji-Log commits
-- 📁 **[dotfiles][dotfiles]** – My dotfiles, and a fancy Mac Setup CLI
+- 🏆 **[humblebrag cli][humblebrag]** – All-time npm downloads, GitHub stars, merged PRs, and followers everywhere in one command
 
 ## Legacy
 
@@ -311,7 +311,7 @@
 [wpgithubapi]: https://github.com/ahmadawais/WPGitHubAPI
 [create-wp-release]: https://github.com/ahmadawais/create-wp-release
 [emoji-log-vscode]: https://github.com/ahmadawais/Emoji-Log-VSCode
-[dotfiles]: https://github.com/ahmadawais/dotfiles
+[humblebrag]: https://github.com/ahmadawais/humblebrag
 
 <!-- Legacy projects -->
 [awesome-random]: https://github.com/ahmadawais/awesome-random-stuff
